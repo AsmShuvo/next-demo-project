@@ -14,6 +14,14 @@ pnpm dev
 bun dev
 ```
 
+#.env keys
+```
+NEXT_PUBLIC_AUTH_SECRET = NkBchXWyHDf8J6HAZDhwixUFvH/Sn7W7ML4/jS8yejA=
+NEXT_PUBLIC_MONGODB_URI = mongodb://0.0.0.0:27017
+NEXT_GOOGLE_CLIENT_ID = 577868135286-m7ef44k5c8v086c0as2remb5d0535i7r.apps.googleusercontent.com
+NEXT_GOOGLE_CLIENT_SECRET = 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
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
